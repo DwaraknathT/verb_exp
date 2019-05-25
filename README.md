@@ -1,6 +1,11 @@
 # GSoC-19
 A Multilingual RDF verbalizer for DBpedia- Google Summer of Code- 2019. 
 
+# Implementation 
+This Implementation is an extension of the OpenNMT-py code. 
+Useful modules are also taken from Graph-2-text , especially 
+the preprocessing modules. 
+
 # Abstract: 
 A Multilingual Neural model that takes RDF triples as input, 
 and outputs a natural language description. 
