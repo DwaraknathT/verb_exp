@@ -1,5 +1,5 @@
-# GSoC-19
-A Multilingual RDF verbalizer for DBpedia- Google Summer of Code- 2019. 
+
+# A Multilingual RDF verbalizer
 
 # Implementation 
 This Implementation is an extension of the OpenNMT-py code. 
